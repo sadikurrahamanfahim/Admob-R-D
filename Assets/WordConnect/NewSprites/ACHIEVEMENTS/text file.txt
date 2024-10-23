@@ -1,0 +1,5 @@
+progress bar down bg color=bc782a
+
+progress bar top color=
+start=3b9203
+end=9eec48

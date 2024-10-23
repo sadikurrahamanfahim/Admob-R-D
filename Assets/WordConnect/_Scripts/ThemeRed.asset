@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 587ba509d6b1c804bbe0ef93cd135699, type: 3}
+  m_Name: ThemeRed
+  m_EditorClassIdentifier: 
+  downBg: {fileID: 21300000, guid: d3eda774cff13be4da6cd6b2c175877b, type: 3}
+  buttonBg: {fileID: 21300000, guid: 0a354c294b108624ba390e2314034504, type: 3}
+  hints: {fileID: 21300000, guid: 55a21713491092c4ba171bee0b31c447, type: 3}
+  hintsBg: {fileID: 21300000, guid: ed5914e5a6b133d42a43ab7c0b2172c4, type: 3}
+  leafLeft: {fileID: 21300000, guid: a7fd4049bcb791842adaf33b2adda410, type: 3}
+  leafRight: {fileID: 21300000, guid: 42771bdeebd62294fab219bf8543ff83, type: 3}
+  replay: {fileID: 21300000, guid: 315e5c8f42711134a9c389d40ada5e31, type: 3}
+  starButton: {fileID: 21300000, guid: b1981e28056dcb549aef4c64b70814b0, type: 3}
+  topBg: {fileID: 21300000, guid: eb985ea5ece4b5540b21c0bc3a8cf1cb, type: 3}

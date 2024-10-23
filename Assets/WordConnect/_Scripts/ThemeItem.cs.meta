@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 587ba509d6b1c804bbe0ef93cd135699
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - downBg: {fileID: 21300000, guid: d3eda774cff13be4da6cd6b2c175877b, type: 3}
+  - buttonBg: {fileID: 21300000, guid: 1ec63b4b8eab4624092decdd6d43a36b, type: 3}
+  - hints: {fileID: 21300000, guid: 152d9024e9db9e6448839199909d2f87, type: 3}
+  - hintsBg: {fileID: 21300000, guid: ed5914e5a6b133d42a43ab7c0b2172c4, type: 3}
+  - leafLeft: {fileID: 21300000, guid: a7fd4049bcb791842adaf33b2adda410, type: 3}
+  - leafRight: {fileID: 21300000, guid: 42771bdeebd62294fab219bf8543ff83, type: 3}
+  - replay: {fileID: 21300000, guid: 60e319a2afa5ba343bad4545c6d4f6d2, type: 3}
+  - starButton: {fileID: 21300000, guid: 1ec63b4b8eab4624092decdd6d43a36b, type: 3}
+  - topBg: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
