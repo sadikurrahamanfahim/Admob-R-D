@@ -2832,7 +2832,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 50.799988, y: 3.4501}
+  m_AnchoredPosition: {x: 50.80005, y: 3.4501}
   m_SizeDelta: {x: 101.600006, y: 90}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &438462030
@@ -5917,7 +5917,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -50.789978, y: 3.4451}
+  m_AnchoredPosition: {x: -50.79004, y: 3.4451}
   m_SizeDelta: {x: 101.58002, y: 89.99}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &891452628
@@ -15514,7 +15514,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 596.48, z: -11520}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 560509225}
@@ -15548,7 +15548,7 @@ ParticleSystem:
   m_GameObject: {fileID: 1236148339203296974}
   serializedVersion: 8
   lengthInSec: 5
-  simulationSpeed: 0.7
+  simulationSpeed: 0.8
   stopAction: 0
   cullingMode: 0
   ringBufferMode: 0
@@ -15794,7 +15794,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 3
       scalar: 0.01
-      minScalar: 0.2
+      minScalar: 0.13
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -16110,7 +16110,7 @@ ParticleSystem:
         m_RotationOrder: 4
     randomizeRotationDirection: 0
     gravitySource: 1
-    maxNumParticles: 1000
+    maxNumParticles: 900
     customEmitterVelocity: {x: 0, y: 0, z: 0}
     size3D: 0
     rotation3D: 0
